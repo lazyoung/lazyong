@@ -9,7 +9,7 @@
     - [T-Head Qemu](https://github.com/T-head-Semi/qemu)
     - [PLCT Qemu](https://github.com/plctlab/plct-qemu)
   - Modifications:
-    - [project_a](https:github.com/lazyoung/project_a)
+    - [project_a](https://github.com/lazyoung/project_a)
 
 # project B: qemu-systemc cosimulation
   - status: referencing, waiting open
@@ -18,7 +18,7 @@
   - references:
     - [xilinx/systemctlm-cosim](https://github.com/Xilinx/systemctlm-cosim-demo)
   - modifications:
-    - [project_b](https:github.com/lazyoung/project_b)
+    - [project_b](https://github.com/lazyoung/project_b)
     
 # project C: LLVM/CIRCT?
 # project D: Cuda/PyTorch?
