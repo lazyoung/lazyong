@@ -20,6 +20,7 @@
   - modifications:
     - [project_b](https://github.com/lazyoung/project_b)
     
-# project C: LLVM/CIRCT?
-# project D: Cuda/PyTorch?
+# project C: LLVM/CIRCT - Compiler?
+# project D: Cuda/PyTorch - AI?
+# Project E: Swift/WebAssembly - Frontend?
 
