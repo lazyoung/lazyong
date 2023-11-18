@@ -9,7 +9,7 @@
     - [T-Head Qemu](https://github.com/T-head-Semi/qemu)
     - [PLCT Qemu](https://github.com/plctlab/plct-qemu)
   - Modifications:
-    - [project_c](https:github.com/lazyoung/project_c)
+    - [project_a](https:github.com/lazyoung/project_a)
 
 # project B: qemu-systemc cosimulation
   - status: referencing, waiting open
