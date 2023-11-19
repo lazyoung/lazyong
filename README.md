@@ -19,8 +19,14 @@
     - [xilinx/systemctlm-cosim](https://github.com/Xilinx/systemctlm-cosim-demo)
   - modifications:
     - [project_b](https://github.com/lazyoung/project_b)
-    
-# project C: LLVM/CIRCT - Compiler?
-# project D: Cuda/PyTorch - AI?
-# Project E: Swift/WebAssembly - Frontend?
+
+# Project C: LifeProc
+  - references:
+    - [Pomodoro](https://github.com/shengyuan-lu/PomodoroCat)
+  - modifications:
+    - [project_c](https://github.com/lazyoung/project_b)
+
+# project D: LLVM/CIRCT - Compiler?
+# project E: Cuda/PyTorch - AI?
+
 
