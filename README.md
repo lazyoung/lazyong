@@ -24,7 +24,7 @@
   - references:
     - [Pomodoro](https://github.com/shengyuan-lu/PomodoroCat)
   - modifications:
-    - [project_c](https://github.com/lazyoung/project_b)
+    - [project_c](https://github.com/lazyoung/project_c)
 
 # project D: LLVM/CIRCT - Compiler?
 # project E: Cuda/PyTorch - AI?
