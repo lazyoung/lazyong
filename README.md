@@ -26,7 +26,6 @@
   - modifications:
     - [project_c](https://github.com/lazyoung/project_c)
 
-# project D: LLVM/CIRCT - Compiler?
-# project E: Cuda/PyTorch - AI?
+# project D: LLVM/MLIR based AI workload generation: AMBA_AXI & AMBA_CHI?
 
 
