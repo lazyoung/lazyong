@@ -23,7 +23,7 @@
 # Project C: LifeProc
   - references:
     - [Pomodoro](https://github.com/shengyuan-lu/PomodoroCat)
-    - [Backyard Birds](https://github.com:apple/sample-backyard-birds)
+    - [Backyard Birds](https://github.com/apple/sample-backyard-birds)
   - modifications:
     - [project_c](https://github.com/lazyoung/project_c)
 
